@@ -1,7 +1,7 @@
 {
-  "name": "aqueous",
+  "name": "ts-react-atdd",
   "version": "1.0.0",
-  "description": "BlockChain something or another",
+  "description": "Sample Build using ATDD in TypeScript React",
   "main": "dist/index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/Oscarv97/ts-react-atdd"
   },
   "keywords": [
     "BlockChain",
@@ -22,9 +22,9 @@
   "author": "Authors",
   "license": "SEE LICENSE IN license.txt",
   "bugs": {
-    "url": "https://github.com/Oscarv97//issues"
+    "url": "https://github.com/Oscarv97/ts-react-atdd/issues"
   },
-  "homepage": "https://github.com//-#readme",
+  "homepage": "https://github.com/Oscarv97/ts-react-atdd/-#readme",
   "devDependencies": {
     "@types/enzyme": "^3.1.16",
     "@types/enzyme-adapter-react-16": "^1.0.3",
