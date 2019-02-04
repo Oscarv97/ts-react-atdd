@@ -1,7 +1,11 @@
-# Aqueous-
+# TS-React-AtDD-
 
 
 ### Build
+- Jest 
+- TypeScript
+- React
+- jest-cucmber
 
 #### Requirements
 - You need to have NodeJS > 8.0
