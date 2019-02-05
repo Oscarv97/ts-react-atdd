@@ -1,4 +1,4 @@
-// app.ts
+
 
 export class Hero {
     name: string;
@@ -12,7 +12,5 @@ export class Hero {
     }
 }
 
-let hero = new Hero('Austin');
+let hero = new Hero('Oscar');
 console.log(hero.myName());
-
-// reactDom.render(<App/>);
